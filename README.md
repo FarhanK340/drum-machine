@@ -1,3 +1,5 @@
+# A simple Drum machine Pad (FreeCodeCamp Exercise) using React and Tailwind
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
